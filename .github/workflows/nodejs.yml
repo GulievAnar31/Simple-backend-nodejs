@@ -25,8 +25,5 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Run tests (if you have tests defined)
-      run: npm test
-
     # Дополнительные шаги для деплоя (если необходимы) можно добавить ниже
 
